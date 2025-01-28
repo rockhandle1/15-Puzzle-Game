@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"c:/Users/Mikyle/Projects/15Puzzle/15Puzzle/Content/Arial.spritefont","c:/Users/Mikyle/Projects/15Puzzle/15Puzzle/Content/bin/DesktopGL/Arial.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,0.1471217
+"c:/Users/Mikyle/Projects/15Puzzle/15Puzzle/Content/Puzzles/Badlands.png","c:/Users/Mikyle/Projects/15Puzzle/15Puzzle/Content/bin/DesktopGL/Puzzles/Badlands.xnb","TextureProcessor","Texture2DContent",1261541,4000085,0.1259108
+"c:/Users/Mikyle/Projects/15Puzzle/15Puzzle/Content/Puzzles/maxresdefault.png","c:/Users/Mikyle/Projects/15Puzzle/15Puzzle/Content/bin/DesktopGL/Puzzles/maxresdefault.xnb","TextureProcessor","Texture2DContent",668883,4000085,0.1045418
